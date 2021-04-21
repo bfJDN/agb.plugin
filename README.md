@@ -1,36 +1,25 @@
-# New Awesome Blocks for Gutenberg
+# Initial page
 
-This project brings some new blocks for the new WordPress visual editor (codename: Gutenberg)
+## Getting Super Powers
 
-A settings page is available to choose which blocks to activate/deactivate and add a default configuration
-
-## Features
-
-- Add new awesome blocks for the new WordPress editor
-- clean up blocks list by disabling unwanted ones
-- improves defaults blocks with more options
-
-# Blocks
-
-Discover our blocks on [Advanced Gutenberg Blocks](https://advanced-gutenberg-blocks.com/) website.
-
-# Requirements
-
-Node 8+
-
-# Setup
-
-Download this folder in your plugins directory
+Becoming a super hero is a fairly straight forward process:
 
 ```
-cd /wp-content/plugins/gutenberg-blocks/
-npm install
-npm run
+$ give me super-powers
 ```
 
-This project was bootstrapped with [Create Guten Block](https://github.com/ahmadawais/create-guten-block).
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
----
+Once you're strong enough, save the world:
 
-Any block idea? Join Me!
-Feel free to tweet and say 👋 at me [@MaximeBJ](https://twitter.com/maximebj/)
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
+
+
